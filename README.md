@@ -1,1 +1,1 @@
-Do the readme!
+Do the readme and change icon!
